@@ -1,0 +1,10 @@
+C:\Users\Dunkash\source\repos\QuickHull\bin\Debug\QuickHull.exe.config
+C:\Users\Dunkash\source\repos\QuickHull\bin\Debug\QuickHull.exe
+C:\Users\Dunkash\source\repos\QuickHull\bin\Debug\QuickHull.pdb
+C:\Users\Dunkash\source\repos\QuickHull\obj\Debug\QuickHull.csproj.AssemblyReference.cache
+C:\Users\Dunkash\source\repos\QuickHull\obj\Debug\QuickHull.Form1.resources
+C:\Users\Dunkash\source\repos\QuickHull\obj\Debug\QuickHull.Properties.Resources.resources
+C:\Users\Dunkash\source\repos\QuickHull\obj\Debug\QuickHull.csproj.GenerateResource.cache
+C:\Users\Dunkash\source\repos\QuickHull\obj\Debug\QuickHull.csproj.CoreCompileInputs.cache
+C:\Users\Dunkash\source\repos\QuickHull\obj\Debug\QuickHull.exe
+C:\Users\Dunkash\source\repos\QuickHull\obj\Debug\QuickHull.pdb
